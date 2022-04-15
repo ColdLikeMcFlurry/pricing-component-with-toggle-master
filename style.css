@@ -179,6 +179,10 @@ h2{
         padding: 25px 15px;
     }
 
+    .switcher{
+        margin-bottom: 50px;
+    }
+
     .cards{
         flex-direction: column;
     }
