@@ -175,6 +175,10 @@ h2{
 
 @media screen and (max-width:1100px){
 
+    .container{
+        padding: 25px 15px;
+    }
+
     .cards{
         flex-direction: column;
     }
